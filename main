@@ -1,7 +1,6 @@
-echo "# dillonbelmonte.com" >> README.md
 git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/RaneyDay5/dillonbelmonte.com.git
-git push -u origin main
+git add .
+git commit -m "First commit"
+git branch -M master
+git remote add origin https://github.com/T31K/Portfolio-Site.git
+git push -u origin master
