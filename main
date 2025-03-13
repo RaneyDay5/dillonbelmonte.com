@@ -2,5 +2,5 @@ git init
 git add .
 git commit -m "First commit"
 git branch -M master
-git remote add origin https://github.com/T31K/Portfolio-Site.git
+git remote add origin https://github.com/RaneyDay5/dillonbelmonte.com
 git push -u origin master
